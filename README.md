@@ -1,8 +1,8 @@
-# Sign_Language_Translator
-OpenCV + AutoML을 이용한 수어번역기 (2019 프로보노 공모전 대상)
+*SignLanguage_Translator
 
-개발 기술 : PyThon3, OpenCV, Google AutoML Vision
+딥러닝을 활용한 수어번역기
+It was developed using Google AutoML Vision and OpenCV.
+Python ver. 3.6, (Jetbrains Pycharm)
+UI : PyQt5
 
-UI 개발 : PyQT5
-
-개발 기간 : 2018년 12월 ~ 2019년 12월
+Period : 2019.11 ~ 2020.11
